@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Manpreet Westpac Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_permission_error">Location permission was NOT granted.</string>
+    <string name="weather_api_error">Failed to get current weather status.</string>
+    <string name="network_error">Network Exception. Please try again later.</string>
+    <string name="network_providers_error">"Please check network providers are enabled."</string>
+</resources>
